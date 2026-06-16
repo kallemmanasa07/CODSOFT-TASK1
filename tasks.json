@@ -1,0 +1,14 @@
+[
+    {
+        "title": "to read for tomorrow exam",
+        "due": "18-06-2026",
+        "priority": "Medium",
+        "done": true
+    },
+    {
+        "title": "shoping",
+        "due": "17-06-2026",
+        "priority": "High",
+        "done": false
+    }
+]
